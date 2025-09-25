@@ -1,0 +1,13 @@
+.dropzone.dragover {
+    border-color: #2563eb;
+    background: #eff6ff;
+}
+
+.file-list {
+    max-height: 240px;
+    overflow: auto;
+}
+
+.mono {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
